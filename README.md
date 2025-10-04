@@ -26,5 +26,5 @@ This work aims to empower farmers, especially in **Nigeria and other developing 
 ## 🚀 Features  
 - Real-time tomato disease detection via mobile app.  
 - Works offline (no internet required).  
-- Optimized for **farmers in remote or resource-limited regions**.  
+- Optimized for **farmers in remote or expertise-limited regions**.  
 
