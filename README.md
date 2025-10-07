@@ -1,6 +1,6 @@
-# 🍅 Tomato Leaf Disease Detection Using Deep Neural Network  
+# Tomato Leaf Disease Detection Using Deep Neural Network  
 
-## 📌 Overview  
+## Overview  
 This project presents a **deep learning-based solution** for detecting tomato leaf diseases using **MobileNetV2** and **transfer learning**. The model was trained on the **PlantVillage dataset** with 10 classes (9 diseases + 1 healthy) and optimized for **mobile deployment** using **TensorFlow Lite**.  
 
 
@@ -8,7 +8,7 @@ This work aims to empower farmers, especially in **Nigeria and other developing 
 
 ---
 
-## ⚙️ Methodology  
+## Methodology  
 1. **Dataset**: PlantVillage tomato leaf subset (~18,000 images).  
 2. **Preprocessing**: Image resizing (224×224), normalization, and augmentation.  
 3. **Model Architecture**: MobileNetV2 + Transfer Learning + Dropout + Softmax classifier.  
@@ -17,13 +17,13 @@ This work aims to empower farmers, especially in **Nigeria and other developing 
 
 ---
 
-## 📊 Results  
+## Results  
 - **Validation Accuracy**: 92%  
 - **Deployment**: Lightweight TFLite model suitable for low-resource smartphones.  
 
 ---
 
-## 🚀 Features  
+## Features  
 - Real-time tomato disease detection via mobile app.  
 - Works offline (no internet required).  
 - Optimized for **farmers in remote or expertise-limited regions**.  
